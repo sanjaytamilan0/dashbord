@@ -1,0 +1,56 @@
+# Flutter/Dart/Pub related
+**/.idea/
+**/.vscode/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+**/build/
+**/ios/Flutter/.last_build_id
+
+# iOS related
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+ios/Runner/Assets.xcassets/
+ios/Runner/Info.plist
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/gradle-wrapper.jar
+android/gradle.properties
+android/.idea/
+android/local.properties
+
+# Flutter build files
+/build/
+
+# IDE files
+.idea/
+.vscode/
+
+# User-specific files
+*.log
+*.swp
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Generated files
+*.class
+*.apk
+*.aar
+*.hprof
+*.apk
+
+# JetBrains related
+*.iml
